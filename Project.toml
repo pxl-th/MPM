@@ -1,0 +1,12 @@
+name = "MPM"
+uuid = "96ac1f5a-a00f-49b8-b5c6-125dadef07be"
+authors = ["Anton Smirnov <17990405+pxl-th@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+CImGui = "5d785b6c-b76f-510e-a07c-3070796c7e87"
+GLFW = "f7f18e0c-5ee9-5ccd-a5bf-e8befd85ed98"
+GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Ray = "911fe1cd-b92f-481e-9d0c-48606fe1e488"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
